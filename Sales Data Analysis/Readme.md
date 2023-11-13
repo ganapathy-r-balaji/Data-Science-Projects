@@ -1,6 +1,12 @@
-**Sales Data Analysis** (https://platform.stratascratch.com/data-projects/sales-data-analysis)
+# ***Sales Data Analysis*** 
+# (https://platform.stratascratch.com/data-projects/sales-data-analysis)
 
-In this project, I was asked to answer the following questions. I used Python for data exploration and analysis.
+### Data Description
+The datasets/ directory contains fifty CSV files (one per week) of timestamped sales data. Each row in a file has two columns:
+  - sale_time - The timestamp on which the sale was made e.g. 2012-10-01 01:42:22
+  - purchaser_gender - The gender of the person who purchased (male or female)
+
+### In this project, I was asked to answer the following questions. I used Python for data exploration and analysis.
 1. Plot daily sales for all 50 weeks.
 2. It looks like there has been a sudden change in daily sales. What date did it occur?
 3. Is the change in daily sales at the date you selected statistically significant? If so, what is the p-value?
@@ -12,7 +18,3 @@ In this project, I was asked to answer the following questions. I used Python fo
     - evening (6:00PM - 12:00AM).
   What is the percentage of sales in each daypart over all 50 weeks?
 
-Data Description
-The datasets/ directory contains fifty CSV files (one per week) of timestamped sales data. Each row in a file has two columns:
-  - sale_time - The timestamp on which the sale was made e.g. 2012-10-01 01:42:22
-  - purchaser_gender - The gender of the person who purchased (male or female)
