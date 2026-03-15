@@ -18,6 +18,7 @@ Key RFM Insights
 
 
 Link to the competition: https://www.kaggle.com/competitions/playground-series-s6e3/overview
+
 Link to my submission: https://www.kaggle.com/code/ganapathybalajir/customer-churn-prediction-with-rfm-analysis
 
 Leaderboard: https://www.kaggle.com/competitions/playground-series-s6e3/leaderboard
